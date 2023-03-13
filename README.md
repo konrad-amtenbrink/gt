@@ -27,7 +27,7 @@ gt                        # copy last commit message
 
 ## Installation
 
-### *Step 1: Install rcd*
+### *Step 1: Install gt*
 Right now, gt is only installable via homebrew
 
 <details>
@@ -42,12 +42,12 @@ brew install gt
 </details>
 
 
-### *Step 2: Add rcd to you shell*
+### *Step 2: Add gt to you shell*
 
 <details>
 <summary>MacOS</summary>
 
-To add rcd to you shell, run these commands in your terminal:
+To add gt to you shell, run these commands in your terminal:
 
 ```sh
 echo 'alias gt="/usr/local/Cellar/gt/0.1.1/bin/gt"' >> ~/.zshrc
